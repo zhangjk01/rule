@@ -6,8 +6,9 @@ payload:
   - DOMAIN,hanime1.me
   - DOMAIN,acg.rip
   - DOMAIN,javdb.com
-  - DOMAIN,jhjedd.com
-  - DOMAIN,south-plus.net
+  
+  - DOMAIN-SUFFIX,jhjedd.com
+  - DOMAIN-SUFFIX,south-plus.net
 
   - PROCESS-NAME,eu.kanade.tachiyomi
   - PROCESS-NAME,xxx.pornhub.fuck
