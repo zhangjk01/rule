@@ -11,12 +11,7 @@ payload:
   - DOMAIN,acg.rip
   - DOMAIN,javdb.com
   - DOMAIN,18comic.vip
-  - DOMAIN,18comic.org
-  - DOMAIN,jmcomic.me
-  - DOMAIN,jmcomic1.me
-  - DOMAIN,jmcomic1.group
-  - DOMAIN,jmcomic2.group  
-  - DOMAIN,jm-comic.cc
+  - DOMAIN,cdn-msp2.18comic.vip
   - DOMAIN,rouman5.com
   - DOMAIN,manwa.me
   
