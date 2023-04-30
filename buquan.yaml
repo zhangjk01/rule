@@ -4,7 +4,7 @@ payload:
   - PROCESS-NAME,eu.kanade.tachiyomi
   - PROCESS-NAME,xxx.pornhub.fuck
   
-  -DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,18comic
   
   - DOMAIN,prpr.96110.cn.com
   - DOMAIN,laowang.vip
