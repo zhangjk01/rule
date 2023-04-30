@@ -8,3 +8,5 @@ payload:
   - DOMAIN,javdb.com
   - DOMAIN,jhjedd.com
   - DOMAIN,south-plus.net
+
+  - PROCESS-NAME,eu.kanade.tachiyomi
