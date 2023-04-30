@@ -1,7 +1,6 @@
 # NAME: buquan
 # 个人自用规则补全
 payload:
-  - PROCESS-NAME,eu.kanade.tachiyomi
   - PROCESS-NAME,xxx.pornhub.fuck
   
   - DOMAIN-KEYWORD,18comic
