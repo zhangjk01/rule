@@ -6,13 +6,14 @@ payload:
   - DOMAIN-KEYWORD,18comic
   
   - DOMAIN,prpr.96110.cn.com
-  - DOMAIN,laowang.vip
+
   - DOMAIN,hanime1.me
   - DOMAIN,acg.rip
   - DOMAIN,javdb.com
   - DOMAIN,rouman5.com
   - DOMAIN,manwa.me
   
+  - DOMAIN-SUFFIX,laowang.vip
   - DOMAIN-SUFFIX,hjedd.com
   - DOMAIN-SUFFIX,south-plus.net
   - DOMAIN-SUFFIX,civitai.com
