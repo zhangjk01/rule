@@ -1,6 +1,10 @@
 # NAME: buquan
 # 个人自用规则补全
 payload:
+
+  - PROCESS-NAME,eu.kanade.tachiyomi
+  - PROCESS-NAME,xxx.pornhub.fuck
+  
   - DOMAIN,prpr.96110.cn.com
   - DOMAIN,laowang.vip
   - DOMAIN,hanime1.me
@@ -18,6 +22,3 @@ payload:
   
   - DOMAIN-SUFFIX,jhjedd.com
   - DOMAIN-SUFFIX,south-plus.net
-
-  - PROCESS-NAME,eu.kanade.tachiyomi
-  - PROCESS-NAME,xxx.pornhub.fuck
