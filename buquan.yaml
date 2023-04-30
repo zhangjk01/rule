@@ -12,7 +12,7 @@ payload:
   - DOMAIN,javdb.com
   - DOMAIN,rouman5.com
   - DOMAIN,manwa.me
-  - DOMAIN,civitai.com
   
   - DOMAIN-SUFFIX,jhjedd.com
   - DOMAIN-SUFFIX,south-plus.net
+  - DOMAIN-SUFFIX,civitai.com
