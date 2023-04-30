@@ -1,15 +1,5 @@
-# NAME: Advertising
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-29 02:08:23
-# DOMAIN: 16455
-# DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 87253
-# IP-CIDR: 242
-# TOTAL: 104026
+# NAME: buquan
+# 个人自用规则补全
 payload:
-  - DOMAIN,03.lzzncm.com
-  - DOMAIN,04.lzzncm.com
-  - DOMAIN,10.10.34.35
-  - DOMAIN,10.10.34.36
-  - DOMAIN,103.21.91.144
+  - DOMAIN,prpr.96110.cn.com
+  - DOMAIN,laowang.vip
