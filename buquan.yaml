@@ -6,6 +6,8 @@ payload:
   - PROCESS-NAME,com.google.android.youtube
     
   - DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,youtube
   
   - DOMAIN-SUFFIX,prpr.96110.cn.com
   - DOMAIN-SUFFIX,hanime1.me
