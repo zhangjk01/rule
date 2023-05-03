@@ -2,8 +2,8 @@
 # 个人自用规则补全
 payload:
   - PROCESS-NAME,xxx.pornhub.fuck
-  - PROCESS-NAME,libverysync.so
-    
+
+
   - DOMAIN-KEYWORD,18comic
   
   - DOMAIN-SUFFIX,prpr.96110.cn.com
