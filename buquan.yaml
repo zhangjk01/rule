@@ -21,4 +21,6 @@ payload:
   - DOMAIN-SUFFIX,nivodz.com
   - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,cdn.androidcombo.com
- 
+  - DOMAIN-SUFFIX,buzzsprout.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,anchor.fm
