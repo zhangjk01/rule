@@ -3,7 +3,6 @@
 payload:
   - PROCESS-NAME,xxx.pornhub.fuck
   - PROCESS-NAME,com.mudvod.video
-  - PROCESS-NAME,com.google.android.youtube
     
   - DOMAIN-KEYWORD,18comic
   
