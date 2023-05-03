@@ -2,7 +2,6 @@
 # 个人自用规则补全
 payload:
   - PROCESS-NAME,xxx.pornhub.fuck
-  - PROCESS-NAME,com.mudvod.video
     
   - DOMAIN-KEYWORD,18comic
   
