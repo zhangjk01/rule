@@ -1,8 +1,9 @@
-# NAME: buchong
+# NAME:buchong
+# 代理组:DRIECT
 
 payload:
   - DOMAIN,clash.razord.top
-  - DOMAIN,yacd.haishan.me,DIRECT
+  - DOMAIN,yacd.haishan.me
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamserver.net
