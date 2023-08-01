@@ -2,3 +2,4 @@
 
 payload:
   - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,googleapis.cn
