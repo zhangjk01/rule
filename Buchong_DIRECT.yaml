@@ -1,4 +1,4 @@
-#代理组:DRIECT
+#代理组:DIRECT
 
 payload:
   - DOMAIN,clash.razord.top
