@@ -1,5 +1,4 @@
-# NAME:Buchong
-# 代理组:DRIECT
+#代理组:DRIECT
 
 payload:
   - DOMAIN,clash.razord.top
