@@ -10,4 +10,3 @@ payload:
   - DOMAIN,bf7bzx7sfc.execute-api.eu-west-1.amazonaws.com
   - DOMAIN,imggaming.s3-eu-west-1.amazonaws.com
   - DOMAIN,ux1kpaebv0.execute-api.eu-west-1.amazonaws.com
-  - USER-AGENT,setantasports*
