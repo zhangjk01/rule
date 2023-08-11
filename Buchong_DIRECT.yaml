@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,rmbgame.net
   - DOMAIN-SUFFIX,sub.nexconvert.com
+  - PROCESS-NAME,
