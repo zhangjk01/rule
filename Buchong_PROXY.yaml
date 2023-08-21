@@ -3,4 +3,5 @@
 payload:
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,linkedln.com
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-KEYWORD,linkedin
