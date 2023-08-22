@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,sub.nexconvert.com
   - PROCESS-NAME,com.taobao.idlefish
   - PROCESS-NAME,com.jingdong.app.mall
+  - PROCESS-NAME,parsec.exe
