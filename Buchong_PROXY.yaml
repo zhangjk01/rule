@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-SUFFIX,steamdb.info
