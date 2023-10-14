@@ -1,5 +1,3 @@
-#代理组:PROXY
-
 payload:
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,googleapis.cn
