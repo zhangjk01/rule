@@ -10,6 +10,4 @@ payload:
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,rmbgame.net
   - DOMAIN-SUFFIX,sub.nexconvert.com
-  - PROCESS-NAME,com.taobao.idlefish
-  - PROCESS-NAME,com.jingdong.app.mall
   - PROCESS-NAME,parsecd.exe
